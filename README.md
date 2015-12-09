@@ -13,7 +13,7 @@ Curso: Engenharia mecânica
 
 Esse trabalho consiste na implementação de matrizes esparças e de algumas operações com essas matrizes.
 As operações existentes no programa que esta nesse repositório são: 
-	Criação da matriz m por n,
+	criação da matriz m por n,
 	exclusão da matriz,
 	consulta dos valores de uma posição (i, j) da matriz,
 	consulta da soma dos valores de cada linha da matriz,
